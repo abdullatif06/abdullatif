@@ -83,8 +83,7 @@ Conversion-focused juice brand landing page optimized for mobile users and organ
 
 ## 🌐 Let's Connect
 
-💼 LinkedIn: [ADD LINK]  
-🌍 Portfolio: [ADD LINK]  
+💼 LinkedIn: https://www.linkedin.com/in/abdullatif-qaisieh-63b3b531b/    
 📩 Open for freelance & collaborations
 
 ---
