@@ -1,80 +1,45 @@
-<h1 align="center">⚡ Abdullatif Qaisieh — AI Vibe Coder</h1>
+# Hi, I'm Abdullatif 👋
 
-<p align="center">
-I build production-ready web experiences using AI-powered development workflows.<br>
-Turning ideas → shipped products at startup speed.
-</p>
+Welcome to my GitHub profile! I'm a passionate developer focused on building innovative web solutions and AI-powered applications.
 
----
+## 🚀 Featured Projects
 
-## 🚀 About Me
+### [Trasimeno Coffee AI Landing](https://github.com/abdullatif06/trasimeno-coffee-ai-landing)
+A modern, responsive landing page for Trasimeno Coffee with AI integration. Built with TypeScript and contemporary web technologies.
+- **Tech Stack**: TypeScript (97.3%), CSS (1.3%)
+- **Highlights**: Responsive design, AI-powered features, smooth user experience
 
-🧠 Computer Engineering Student  
-⚡ AI Vibe Coder & Product Builder  
-🌍 Based in Jordan  
-🚀 Focused on rapid MVP development & modern landing experiences  
+## 💻 Tech Stack
 
-I specialize in building **high-quality websites and AI-driven products fast** using next-generation tools.
+**Languages & Frameworks:**
+- TypeScript
+- JavaScript
+- React
+- Node.js
 
----
+**Tools & Platforms:**
+- Git & GitHub
+- VS Code
+- REST APIs
 
-## ⚡ My Vibe Coding Workflow
+## 📊 GitHub Stats
 
-Idea → AI Design → Rapid Build → Ship → Iterate
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullatif06&show_icons=true&theme=radical)
 
-**Design Intelligence**
-- Google Stitch
-- Google Antigravity
+## 🌐 Connect With Me
 
-**AI Development**
-- Lovable
-- Bolt
+- 💼 Open to collaborations and interesting projects
+- 📧 Feel free to reach out for professional inquiries
+- 🤝 Let's build something amazing together!
 
-**Core Stack**
-- HTML / CSS / JavaScript
-- Modern UI/UX Systems
-- Performance-first landing pages
+## 📈 What I'm Working On
 
----
-
-## ⭐ Featured Projects
-
-### ☕ Trasimeno Coffee Shop — AI Landing Experience
-Premium coffee shop website built using AI-assisted design & rapid deployment workflow.  
+I'm constantly exploring new technologies and improving my skills in:
+- Full-stack development
+- AI/ML integration
+- Web performance optimization
+- User experience design
 
 ---
 
-### 🍊 Fresh Squeeze — Juice Bar Website
-Conversion-focused juice brand landing page optimized for mobile users and organic aesthetics.  
-
----
-
-## 🧩 What I Build
-
-✅ Startup Landing Pages  
-✅ Restaurant & Brand Websites  
-✅ AI Product MVPs  
-✅ High-Converting Marketing Pages  
-
----
-
-## 📈 Current Mission
-
-Building AI-powered products, growing a freelance portfolio, and helping brands launch faster.
-
----
-
-## 📈 Activity Graph
-
-[![Abdullatif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullatif06&theme=tokyo-night&hide_border=true)](https://github.com/abdullatif06)
-
----
-
-## 🌐 Let's Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/abdullatif-qaisieh-63b3b531b/   
-📩 Open for freelance & collaborations
-
----
-
-⭐ *Ideas are cheap. Shipping is everything.*
+⭐ If you find my projects interesting, don't forget to star them!
