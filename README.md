@@ -67,7 +67,14 @@ Building AI-powered products, growing a freelance portfolio, and helping brands 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdullatif06&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullatif06&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullatif06&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdullatif06&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
